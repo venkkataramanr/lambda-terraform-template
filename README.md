@@ -1,4 +1,4 @@
-# terraform-aws-lambda
+# lambda-terraform-template
 
 This Terraform module creates and uploads an AWS Lambda function and hides the ugly parts from you.
 
